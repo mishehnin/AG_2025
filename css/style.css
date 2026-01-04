@@ -25,18 +25,18 @@ span link.{
   margin-top: 30px;
 }
 .img1 {
-  background-image: url('https://youke2.picui.cn/s1/2025/12/22/694964de160f4.jpg');
+  background-image: url('../img/11.jpg');
   min-height: 1000px;
   background-size: cover;
   color: #fff;
 }
 .img2 {
-  background-image: url('https://youke2.picui.cn/s1/2025/12/22/694964de2df21.jpg');
+  background-image: url('../img/22.jpg');
   min-height: 1000px;
   background-size: cover;
 }
 .img3 {
-  background-image: url('https://youke2.picui.cn/s1/2025/12/22/6949633dac187.jpg');
+  background-image: url('../img/33.jpg');
   min-height: 1000px;
   background-size: cover;
 }
